@@ -6,7 +6,7 @@ Cette lib peut être utilisée afin de faciliter la manipulation de fichiers de 
 
 > # Utiliser la lib
 
-Afin d'importer facilement la lib, étant stockée sur GitHub, vous devez utiliser le repository "JitPack". Par ailleurs, elle dépend de Spigot, vous devez donc aussi l'ajouter à vos repos. Copiez-collez ceci dans votre ``pom.xml`` :
+Afin d'importer facilement la lib, étant stockée sur GitHub, vous devez utiliser le dépôt ``JitPack``. Par ailleurs, elle dépend de Spigot, vous devez donc aussi l'ajouter à vos ``repositories``. Copiez-collez ceci dans votre ``pom.xml`` :
 ```xml
 <repositories>
     <repository>
@@ -37,4 +37,4 @@ En suite, la lib ``Configuration-Manager`` dépend de spigot 1.18.1. Il faudra d
 </dependencies>
 ```
 
-Et voilà, tout est fin prêt pour être codé !
+Et voilà, vous pouvez commencer à coder !
