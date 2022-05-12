@@ -20,7 +20,7 @@ Afin d'importer facilement la lib, étant stockée sur GitHub, vous devez utilis
 </repositories>
 ```
 
-En suite, la lib ``Configuration-Manager`` dépend de spigot 1.18.1. Il faudra donc l'importer dans vos ``dependencies``. Et enfin, vous pourrez aussi y mettre la dependency ``Configuration-Manager-Lib`` :
+En suite, la lib ``Configuration-Manager`` dépend de spigot 1.18.1. Il faudra donc l'importer dans vos ``dependencies``. Et enfin, vous pourrez aussi y mettre la dépendance ``Configuration-Manager-Lib`` :
 ```xml
 <dependencies>
     <dependency>
@@ -36,3 +36,5 @@ En suite, la lib ``Configuration-Manager`` dépend de spigot 1.18.1. Il faudra d
     </dependency>
 </dependencies>
 ```
+
+Et voilà, tout est fin prêt pour être codé !
